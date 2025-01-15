@@ -1,6 +1,8 @@
 # SIMD-CRC32
 Header Only CRC32 implement with SIMD instruction
 
+https://crackme.net/articles/simdcrc/
+
 ```C++
 #include"SIMD-CRC32.h"
 
